@@ -1,6 +1,5 @@
 # Laboratorio de Hilos #
 
-Resuelto por
 [![Developed by @santiago-b9826](https://img.shields.io/badge/developed%20by-%40SantiagoBedoya-blue.svg  "Santiago Bedoya")](https://github.com/santiago-b9826)   [![Developed by @linamariaum](https://img.shields.io/badge/developed%20by-%40linamariaum-ff69b4.svg  "Lina María Uribe")](https://github.com/linamariaum)
 
 ## Objetivos ##
