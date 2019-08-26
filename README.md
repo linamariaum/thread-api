@@ -11,7 +11,3 @@
 A continuación se presenta el contenido de este laboratorio:
 1. [Preinforme de laboratorio](./pre_lab)
 2. [Actividad de laboratorio](./lab)
-
-## Agenda ##
-
-En construcción...
