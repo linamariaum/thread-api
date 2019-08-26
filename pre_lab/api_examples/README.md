@@ -6,7 +6,7 @@ Lea y haga un resumen de una hoja (ni más ni menos) del capítulo  [Interlude: 
 
     > Apuntes:
 
-    ![Apuntes acerca de Thread API](https://raw.githubusercontent.com/linamariaum/thread-api/master/assets/Notes_Thread-API.jpg)
+   ![Apuntes acerca de Thread API](https://raw.githubusercontent.com/linamariaum/thread-api/master/assets/Notes_Thread-API.jpg)
 
 ## Parte práctica ##
 
