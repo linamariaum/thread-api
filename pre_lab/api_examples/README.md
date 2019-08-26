@@ -4,7 +4,8 @@
 
 Lea y haga un resumen de una hoja (ni más ni menos) del capítulo  [Interlude: Thread API](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-api.pdf) del libro OSTEP de Remzi.
 
-    > ![Apuntes acerca de Thread API](https://raw.githubusercontent.com/linamariaum/thread-api/master/assets/Notes_Thread-API.jpg)
+    > 
+    ![Apuntes acerca de Thread API](https://raw.githubusercontent.com/linamariaum/thread-api/master/assets/Notes_Thread-API.jpg)
 
 ## Parte práctica ##
 
